@@ -36,13 +36,14 @@ main()
  } 
 } 
 /* 
- output
- Enter no. of files: 2
-Enter starting block and size of file 1: 2 5
-Enter number of blocks occupied by file 1: 10
-Enter blocks of file 1: 3
-2 5 4 6 7 2 6 4 7
-Enter starting block and size of file 2: 3 4
-Enter number of blocks occupied by file 2: 5
-Enter blocks of file 2: 2 3 4 5 6
+ Output
+Enter no. of files:2
+Enter file name: abc
+Enter starting block: 20
+Enter no. of blocks :6
+Enter block numbers:4 12 15 45 32 25
+Enter file name: xyz
+Enter starting block: 12
+Enter no.of blocks : 5
+Enter block numbers: 6 5 4 3 2
 */
